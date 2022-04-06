@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:textrpg" xmlns:models="clr-namespace:Engine.Models;assembly=Engine" d:DataContext="{d:DesignInstance Type=models:Player}"
         mc:Ignorable="d"
         FontSize="11pt"
-        Title="Eric's Adventure Game" Height="625" Width="1024">
+        Title="Jungle Adventure Game" Height="625" Width="1024">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
